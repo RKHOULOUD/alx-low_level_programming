@@ -3,7 +3,9 @@
 #include <stdio.h>
 /*
  * main - entry point
- *description: 'check a number if it is positive or negative '
+ *
+ *description: the main printf if a number is positive or negative
+ *
  * return: always 0 (success)
  */
 /* more headers goes there */
