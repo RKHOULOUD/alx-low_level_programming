@@ -8,7 +8,10 @@
  */
 int main(void)
 {
-    printf("%d\n", mul(98, 1024));
-    printf("%d\n", mul(-402, 4096));
+    char s[10] = "My School";
+
+    printf("%s\n", s);
+    rev_string(s);
+    printf("%s\n", s);
     return (0);
 }
